@@ -1,0 +1,3 @@
+sh metadata.sh KeyName
+
+sh metadata.sh PrivateIpAddress
